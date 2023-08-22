@@ -9,4 +9,4 @@ NIM: 22/504674/SV/21678
 
 Avatar:
 
-![AVATAR](images\images.jfif) 
+![AVATAR](images\images.png) 
